@@ -23,10 +23,10 @@ def genSummarizedJobOutputJSON(query, country="us"):
 
     # print(response.json())
 
-    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "w") as file:
+    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "w", encoding="utf-8") as file:
         json.dump(response.json(), file, indent=4)
 
-    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "r") as file:
+    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "r", encoding="utf-8") as file:
         fullJobDict = json.load(file)
 
     sumJobDict = {}
