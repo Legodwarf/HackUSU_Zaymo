@@ -1,0 +1,873 @@
+{
+    "status": "OK",
+    "request_id": "79564b18-26ac-4ed9-9d8d-6709b20b9ffc",
+    "parameters": {
+        "query": "developer jobs in chicago",
+        "page": 1,
+        "num_pages": 1,
+        "date_posted": "all",
+        "country": "us",
+        "language": "en"
+    },
+    "data": [
+        {
+            "job_id": "UrNYF-3jzOiLTr92AAAAAA==",
+            "job_title": "Kong Developer",
+            "employer_name": "Jobs via Dice",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/kong-developer-at-jobs-via-dice-4377934815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/kong-developer-at-jobs-via-dice-4377934815?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/3b8b90df320854715f9ba53870ed7179?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/kong-developer-at-jobs-via-dice-4377934815",
+                    "is_direct": null,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Pull Skill Technologies, is seeking the following. Apply via Dice today!\n\nRole: Kong Developer\n\nLocation: Hybrid Chicago, IL\n\nNeed Kong Experience.\n\nJob Summary\n\u2022 We are seeking exceptional engineering talent to help elevate and modernize our software engineering practices across the enterprise.\n\u2022 This role goes beyond traditional development - it is an opportunity to shape how we design build secure test deploy and operate software at scale.\n\u2022 You will play a key role in advancing reusable architecture reliability engineering cloud-native design DevSecOps maturity and next-generation testing practices.\n\u2022 We are looking for engineers who bring deep expertise in API schema design enterprise SRE practices modern cloud platforms AWS infrastructure as code IaC CI/CD automation observability Dynatrace and service connectivity platforms such as Kong Gateway and Kong Mesh.\n\u2022 This role will help embed quality automation and GenAI-assisted development into our day-to-day engineering workflows - enabling high-performing autonomous 2-pizza teams to deliver resilient scalable and secure software products.\n\nWhat Youll Do\n\u2022 Architect design and implement scalable reusable and highly reliable software systems for enterprise-scale platforms\n\u2022 Lead API-first design practices including schema governance and service contract standards\n\u2022 Advance modern Site Reliability Engineering SRE practices improving availability resilience observability and operational excellence\n\u2022 Design and implement cloud-native solutions on AWS using Infrastructure as Code and automated CI/CD pipelines\n\u2022 Drive DevSecOps practices by integrating security compliance and automated testing into the development lifecycle\n\u2022 Elevate testing maturity through advanced automation performance engineering chaos testing and quality engineering principles\n\u2022 Integrate GenAI tooling into engineering workflows to improve productivity code quality and documentation standards\n\u2022 Leverage platforms such as Kong Gateway Kong Mesh and Dynatrace to strengthen API management service connectivity and observability\n\u2022 Serve as a technical leader and subject matter expert across development initiatives\n\u2022 Participate in full lifecycle engineering - from requirements and architecture through deployment and production support\n\u2022 Mentor engineers and influence engineering standards governance and best practices\n\u2022 Collaborate within high-performing 2-pizza teams enabling autonomy ownership and rapid delivery\n\nKey Responsibilities:\n\u2022 Design develop document test and debug enterprise-grade software systems\n\u2022 Define and enforce modern engineering standards for reusability reliability and maintainability\n\u2022 Conduct architecture reviews and provide strategic input on technology direction\n\u2022 Analyze and refactor legacy systems to improve scalability performance and operational stability\n\u2022 Develop and implement automated quality assurance processes and engineering metrics\n\u2022 Evaluate emerging technologies and recommend strategic adoption where appropriate\n\u2022 Work closely with product design QA security and platform teams to deliver high-quality outcomes\n\u2022 Contribute to governance models that balance speed safety and compliance\n\u2022 Support and continuously improve production systems through data-driven reliability practices\n\nWho You Are\n\u2022 Deep expertise in API design cloud-native architecture and enterprise integration patterns\n\u2022 Strong experience with AWS IaC CI/CD pipelines and DevSecOps toolchains\n\u2022 Hands-on knowledge of SRE principles including SLIs/SLOs error budgets observability and incident management\n\u2022 Experience with Kong Gateway Kong Mesh Dynatrace or comparable enterprise platforms\n\u2022 Advocate for advanced automated testing and quality engineering\n\u2022 Passionate about integrating GenAI into development workflows responsibly and effectively\n\u2022 Comfortable operating in autonomous cross-functional 2-pizza teams\n\u2022 Strong technical communicator capable of influencing engineering practices at scale",
+            "job_is_remote": false,
+            "job_posted_at": "11 hours ago",
+            "job_posted_at_timestamp": 1772218800,
+            "job_posted_at_datetime_utc": "2026-02-27T19:00:00.000Z",
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUrNYF-3jzOiLTr92AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "We are looking for engineers who bring deep expertise in API schema design enterprise SRE practices modern cloud platforms AWS infrastructure as code IaC CI/CD automation observability Dynatrace and service connectivity platforms such as Kong Gateway and Kong Mesh",
+                    "Deep expertise in API design cloud-native architecture and enterprise integration patterns",
+                    "Strong experience with AWS IaC CI/CD pipelines and DevSecOps toolchains",
+                    "Hands-on knowledge of SRE principles including SLIs/SLOs error budgets observability and incident management",
+                    "Experience with Kong Gateway Kong Mesh Dynatrace or comparable enterprise platforms",
+                    "Advocate for advanced automated testing and quality engineering",
+                    "Passionate about integrating GenAI into development workflows responsibly and effectively",
+                    "Comfortable operating in autonomous cross-functional 2-pizza teams",
+                    "Strong technical communicator capable of influencing engineering practices at scale"
+                ],
+                "Responsibilities": [
+                    "This role goes beyond traditional development - it is an opportunity to shape how we design build secure test deploy and operate software at scale",
+                    "You will play a key role in advancing reusable architecture reliability engineering cloud-native design DevSecOps maturity and next-generation testing practices",
+                    "This role will help embed quality automation and GenAI-assisted development into our day-to-day engineering workflows - enabling high-performing autonomous 2-pizza teams to deliver resilient scalable and secure software products",
+                    "Architect design and implement scalable reusable and highly reliable software systems for enterprise-scale platforms",
+                    "Lead API-first design practices including schema governance and service contract standards",
+                    "Advance modern Site Reliability Engineering SRE practices improving availability resilience observability and operational excellence",
+                    "Design and implement cloud-native solutions on AWS using Infrastructure as Code and automated CI/CD pipelines",
+                    "Drive DevSecOps practices by integrating security compliance and automated testing into the development lifecycle",
+                    "Elevate testing maturity through advanced automation performance engineering chaos testing and quality engineering principles",
+                    "Integrate GenAI tooling into engineering workflows to improve productivity code quality and documentation standards",
+                    "Leverage platforms such as Kong Gateway Kong Mesh and Dynatrace to strengthen API management service connectivity and observability",
+                    "Serve as a technical leader and subject matter expert across development initiatives",
+                    "Participate in full lifecycle engineering - from requirements and architecture through deployment and production support",
+                    "Mentor engineers and influence engineering standards governance and best practices",
+                    "Collaborate within high-performing 2-pizza teams enabling autonomy ownership and rapid delivery",
+                    "Design develop document test and debug enterprise-grade software systems",
+                    "Define and enforce modern engineering standards for reusability reliability and maintainability",
+                    "Conduct architecture reviews and provide strategic input on technology direction",
+                    "Analyze and refactor legacy systems to improve scalability performance and operational stability",
+                    "Develop and implement automated quality assurance processes and engineering metrics",
+                    "Evaluate emerging technologies and recommend strategic adoption where appropriate",
+                    "Work closely with product design QA security and platform teams to deliver high-quality outcomes",
+                    "Contribute to governance models that balance speed safety and compliance",
+                    "Support and continuously improve production systems through data-driven reliability practices"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "0XbVEw2rLn4kFX6KAAAAAA==",
+            "job_title": "Java Back-end developer",
+            "employer_name": "Nexify Infosystems",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJpPg8lTrP7RD_8zp5OUCZd_37aDfvZjpaNQBB&s=0",
+            "employer_website": "https://nexifyinfosystems.com",
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/java-back-end-developer-at-nexify-infosystems-4379025563?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/java-back-end-developer-at-nexify-infosystems-4379025563?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobright",
+                    "apply_link": "https://jobright.ai/jobs/info/69a1d897b600907a962830f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/ef3a3aa9e6d53b7c3249ce3a9cb22b83?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/java-back-end-developer-at-nexify-infosystems-4379025563",
+                    "is_direct": null,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Job Title: Java Back-end developer\n\nLocation: Chicago, IL.\n\nDuration: 12+ Months\n\nThis role requires 5 days onsite.\n\nJob Description :\n\n\u2022 Liaise with fellow developers\n\n\u2022 Designing and implementing microservices which use the spring boot framework.\n\n\u2022 Working in compliance with the full Software Development Life Cycle.\n\n\u2022 Connecting microservices to interact with databases.\n\n\u2022 Understanding of how streaming technologies work such as Kafka.\n\n\u2022 Build Azure/AWS pipelines\n\n\u2022 Identifying and finding solutions to bugs.\n\n\u2022 Ensure you've written adequate test cases to verify design requirements are being met.\n\n\u2022 Create well written documentation for the individual microservices.\n\nKnowledge/Skills\n\n\u2022 JAVA SDK8 or newer\n\n\u2022 Microservices based on Springboot\n\n\u2022 Development experience with React\n\n\u2022 Azure or AWS Services their integration & Development\n\n\u2022 Oracle or similar Database\n\n\u2022 Agile Methodology\n\n\u2022 Knowledge of full software development lifecycle\n\n\u2022 Strong analytical and problem solving skills\n\n\u2022 A positive goal orientated attitude with a focus on delivery\n\nPreferred/ Recommended:\n\n\u2022 Familiarity with financial market/instrument/Trade lifecycle\n\n\u2022 Ability to write SQL.\n\nExperience\n\n\u2022 Bachelor degree in Computer Science or a related discipline\n\n\u2022 Overall 10+ Years of Industry experience in IT.\n\n\u2022 Experience in agile development methodology.\n\n\u2022 Proven ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals.",
+            "job_is_remote": false,
+            "job_posted_at": "14 hours ago",
+            "job_posted_at_timestamp": 1772208000,
+            "job_posted_at_datetime_utc": "2026-02-27T16:00:00.000Z",
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0XbVEw2rLn4kFX6KAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "JAVA SDK8 or newer",
+                    "Microservices based on Springboot",
+                    "Development experience with React",
+                    "Azure or AWS Services their integration & Development",
+                    "Oracle or similar Database",
+                    "Agile Methodology",
+                    "Knowledge of full software development lifecycle",
+                    "Strong analytical and problem solving skills",
+                    "A positive goal orientated attitude with a focus on delivery",
+                    "Bachelor degree in Computer Science or a related discipline",
+                    "Overall 10+ Years of Industry experience in IT",
+                    "Experience in agile development methodology",
+                    "Proven ability to collaborate with high-performing teams and individuals throughout the firm to accomplish common goals"
+                ],
+                "Responsibilities": [
+                    "Duration: 12+ Months",
+                    "This role requires 5 days onsite",
+                    "Liaise with fellow developers",
+                    "Designing and implementing microservices which use the spring boot framework",
+                    "Working in compliance with the full Software Development Life Cycle",
+                    "Connecting microservices to interact with databases",
+                    "Understanding of how streaming technologies work such as Kafka",
+                    "Build Azure/AWS pipelines",
+                    "Identifying and finding solutions to bugs",
+                    "Ensure you've written adequate test cases to verify design requirements are being met",
+                    "Create well written documentation for the individual microservices"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "CvSS8b5HjPedjE8aAAAAAA==",
+            "job_title": "Cloud Java developer-5",
+            "employer_name": "Realign LLC",
+            "employer_logo": null,
+            "employer_website": "https://realign-llc.com",
+            "job_publisher": "Indeed",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.indeed.com/viewjob?jk=1d5bafabbfa42a2d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=1d5bafabbfa42a2d&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "OPTnation",
+                    "apply_link": "https://www.optnation.com/java-consultant-job-in-chicago-il-view-jobid-33417?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "BeBee",
+                    "apply_link": "https://us.bebee.com/job/7accc8e66d80e84f40e096b2288e9b97?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/cloud-java-developer-5-realign-llc-JV_IC1128808_KO0,22_KE23,34.htm?jl=1010044021166&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Learn4Good",
+                    "apply_link": "https://www.learn4good.com/jobs/chicago/illinois/manufacturing/4866104708/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobilize",
+                    "apply_link": "https://www.jobilize.com/job/us-il-illinois-chicago-cloud-java-developer-3-realign-hiring-now-job?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.indeed.com/viewjob?jk=1d5bafabbfa42a2d",
+                    "is_direct": null,
+                    "publisher": "Indeed"
+                }
+            ],
+            "job_description": "Chicago, Illinois 60018 Posted February 25th, 2026\n\nLooking for more job opportunities? Click here!\n\nJob Type: Full Time\n\nJob Category: IT\n\nPosition Title : Cloud Java developer\n\nLocation :- Chicago, IL (Onsite)\n\nFulltime\n\nMust Have Technical/Functional Skills\n\nJava 8 and above, Spring boot microservices architecture, Spring Batch, RestFul webservices\n\nStrong SQL, JDBC strings - Oracle and PostgreSQL DBs\n\nJenkins & Maven\n\nJira, Confluence\n\nExperience on GCP cloud platforms\n\nRoles & Responsibilities\n\u2022 Ensure software is developed to meet functional, non-functional, and compliance requirements.\n\u2022 Enhance of existing features.\n\u2022 Troubleshoot application failures during development and testing phases.\n\u2022 Document high level and component level design, ensure quality standards in terms of\n\u2022 usability and security of all the application components.\n\u2022 Active contribution to application lifecycle including maintenance, release management, critical\n\u2022 bug fixing and ensure error free delivery of the software solution.\n\u2022 Practice Agile development process.\n\nRequired Skills\n\nCLOUD DEVELOPER\n\nSQL APPLICATION DEVELOPER",
+            "job_is_remote": false,
+            "job_posted_at": "3 days ago",
+            "job_posted_at_timestamp": 1771977600,
+            "job_posted_at_datetime_utc": "2026-02-25T00:00:00.000Z",
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCvSS8b5HjPedjE8aAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Must Have Technical/Functional Skills",
+                    "Java 8 and above, Spring boot microservices architecture, Spring Batch, RestFul webservices",
+                    "Strong SQL, JDBC strings - Oracle and PostgreSQL DBs",
+                    "Jenkins & Maven",
+                    "Experience on GCP cloud platforms",
+                    "CLOUD DEVELOPER"
+                ],
+                "Responsibilities": [
+                    "Ensure software is developed to meet functional, non-functional, and compliance requirements",
+                    "Enhance of existing features",
+                    "Troubleshoot application failures during development and testing phases",
+                    "Document high level and component level design, ensure quality standards in terms of",
+                    "usability and security of all the application components",
+                    "Active contribution to application lifecycle including maintenance, release management, critical",
+                    "bug fixing and ensure error free delivery of the software solution",
+                    "Practice Agile development process"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "VYRe9O_fgxOuuNrHAAAAAA==",
+            "job_title": "Sr Python Developer with AI/ML",
+            "employer_name": "RIIM",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcResuqyOss-kZuXIxZWCNBpFCy9WilJgWc9BF1e&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Contractor",
+            "job_employment_types": [
+                "CONTRACTOR"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/sr-python-developer-with-ai-ml-at-riim-4379025361?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/sr-python-developer-with-ai-ml-at-riim-4379025361?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/sr-python-developer-with-ai-ml-at-riim-4379025361",
+                    "is_direct": null,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "\u2022 Experience: Typically requires 5\u201310 years in AI/ML development, depending on the seniority (Senior vs. Junior roles).\n\u2022 Programming: Advanced proficiency in Python and standard libraries (NumPy, Pandas, scikit-learn).\n\u2022 AI Frameworks: Hands-on experience with PyTorch, TensorFlow, and orchestration tools like LangChain or LlamaIndex.\n\u2022 Cloud Infrastructure: Deep knowledge of Azure AI services, including Azure Machine Learning, Cognitive Services, and Copilot Studio.\n\u2022 Education: A Bachelor's or Master\u2019s degree in Computer Science, Engineering, or a related quantitative field is standard.",
+            "job_is_remote": false,
+            "job_posted_at": "15 hours ago",
+            "job_posted_at_timestamp": 1772204400,
+            "job_posted_at_datetime_utc": "2026-02-27T15:00:00.000Z",
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVYRe9O_fgxOuuNrHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Programming: Advanced proficiency in Python and standard libraries (NumPy, Pandas, scikit-learn)",
+                    "AI Frameworks: Hands-on experience with PyTorch, TensorFlow, and orchestration tools like LangChain or LlamaIndex",
+                    "Cloud Infrastructure: Deep knowledge of Azure AI services, including Azure Machine Learning, Cognitive Services, and Copilot Studio",
+                    "Education: A Bachelor's or Master\u2019s degree in Computer Science, Engineering, or a related quantitative field is standard"
+                ]
+            },
+            "job_onet_soc": "15111100",
+            "job_onet_job_zone": "5"
+        },
+        {
+            "job_id": "aUxpjZGwAgf0g9DZAAAAAA==",
+            "job_title": "Senior Developer - IT",
+            "employer_name": "United Airlines",
+            "employer_logo": null,
+            "employer_website": "https://www.united.com",
+            "job_publisher": "United Airlines Jobs",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://careers.united.com/us/en/job/WHQ00025939/Senior-Developer-IT?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "United Airlines Jobs",
+                    "apply_link": "https://careers.united.com/us/en/job/WHQ00025939/Senior-Developer-IT?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=9b4178423eac7b94&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/United-Airlines/Job/Senior-Developer-IT/-in-Chicago,IL?jid=2d90893ff16a2a54&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/senior-developer-it-united-airlines-JV_IC1128808_KO0,19_KE20,35.htm?jl=1010029821857&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dice",
+                    "apply_link": "https://www.dice.com/job-detail/07791c0e-6e11-4b66-8810-9e2818dd4375?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Teal",
+                    "apply_link": "https://www.tealhq.com/job/senior-developer-it_7ea1a85a0514c85e4b9c5521415c2570c0ca3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "SimplyHired",
+                    "apply_link": "https://www.simplyhired.com/job/99Ll2KzAX7ozjuyGH0_FJ10rZqQ7sgif_o89OFK3nHPW3JEKIt3ZRw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Career.io",
+                    "apply_link": "https://career.io/job/senior-developer-it-chicago-united-airlines-0012a25810f812bfd8dee57436314d18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "apply_link": "https://careers.united.com/us/en/job/WHQ00025939/Senior-Developer-IT",
+                    "is_direct": null,
+                    "publisher": "United Airlines Jobs"
+                }
+            ],
+            "job_description": "Achieving our goals starts with supporting yours. Grow your career, access top-tier health and wellness benefits, build lasting connections with your team and our customers, and travel the world using our extensive route network.\n\nCome join us to create what\u2019s next. Let\u2019s define tomorrow, together.\n\nDescription\n\nUnited's Digital Technology team is comprised of many talented individuals all working together with cutting-edge technology to build the best airline in the history of aviation. Our team designs, develops and maintains massively scaling technology solutions brought to life with innovative architectures, data analytics, and digital solutions.\n\nJob overview and responsibilities\n\nThe Senior Software Developer will be responsible for the development of critical applications, while working with a team of developers. This role will design, develop, document, test and debug new and existing applications. Additionally, this role will build these applications with a focus on delivering cloud-based solutions. The individual will use groundbreaking technologies and enterprise grade integration software daily and will be relied upon to help take the team to the next level from a technological standpoint.\n\u2022 Manages and participates in the full development life cycle, including requirements analysis and design, using Agile methodologies\n\u2022 Serve as a technical expert on development projects.\n\u2022 Creates the application framework, reusable components, and coding guidelines.\n\u2022 Good knowledge of deployment practices, pipelines, and related technologies.\n\u2022 Write technical specifications based on the conceptual design and stated business requirements\n\u2022 Support, maintain, and document software functionality\n\u2022 Identify and evaluate new technologies for implementation\n\u2022 Analyze code to find causes of errors and revise programs as needed\n\u2022 Manages and participates in software design meetings and analyzes user needs to determine technical requirements\n\u2022 Collaborate & lead tech teams consisting of employees & vendor company contractors in planning and execution, serving as a technology leader\n\u2022 Collaborate with end user to prototype, refine, test, and debug programs to meet needs\n\nQualifications\n\nWhat\u2019s needed to succeed (Minimum Qualifications):\n\u2022 Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems, or related field\n\u2022 3+ years of experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use in an agile environment\n\u2022 Experience implementing AWS technologies (Lambda, Step Functions, CloudWatch, CloudFront, Cognito, Route53, DynamoDB, ECS, EC2, S3, RDS, API Gateway)\n\u2022 Experience with Cloud Automation Development Tool such as Git, Python/Bash/PowerShell Scripting\n\u2022 Hands-on development and proficient excellence in backend API development using Node.js, Java, and Python (nice to have)\n\u2022 Strong knowledge of Spring framework, SQL, NoSQL, and Design Patterns, messaging platforms like IBM MQ, Solace, Kafka, JMS, etc., APM observability tools\n\u2022 Excellent understanding of Object-Oriented systems design and Application Development\n\u2022 Must be legally authorized to work in the United States for any employer without sponsorship\n\u2022 Successful completion of the interview is required to meet the job qualification\n\u2022 Reliable, punctual attendance is an essential function of the position\n\nWhat will help you propel from the pack (Preferred Qualifications):\n\u2022 Airlines industry experience is a plus\n\nThe base pay range for this role is $112,480.00 to $146,540.00.\nThe base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills. This position is also eligible for bonus and/or long-term incentive compensation awards.\n\nYou may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges.\n\nUnited Airlines is an equal opportunity employer. United Airlines recruits, employs, trains, compensates and promotes regardless of race, religion, color, national origin, gender identity, sexual orientation, physical ability, age, veteran status and other protected status as required by applicable law. Equal Opportunity Employer - Minorities/Women/Veterans/Disabled/LGBT.\n\nWe will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform crucial job functions. Please contact JobAccommodations@united.com to request accommodation.",
+            "job_is_remote": false,
+            "job_posted_at": "1 day ago",
+            "job_posted_at_timestamp": 1772150400,
+            "job_posted_at_datetime_utc": "2026-02-27T00:00:00.000Z",
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": [
+                "health_insurance",
+                "dental_coverage",
+                "paid_time_off"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DaUxpjZGwAgf0g9DZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Bachelor's degree in Computer Science, Computer Engineering, Electrical Engineering, Management Information Systems, or related field",
+                    "3+ years of experience in design, development, documenting, testing, and debugging of new and existing software systems and/or applications for market sale or large-scale proprietary software for internal use in an agile environment",
+                    "Experience implementing AWS technologies (Lambda, Step Functions, CloudWatch, CloudFront, Cognito, Route53, DynamoDB, ECS, EC2, S3, RDS, API Gateway)",
+                    "Experience with Cloud Automation Development Tool such as Git, Python/Bash/PowerShell Scripting",
+                    "Hands-on development and proficient excellence in backend API development using Node.js, Java, and Python (nice to have)",
+                    "Strong knowledge of Spring framework, SQL, NoSQL, and Design Patterns, messaging platforms like IBM MQ, Solace, Kafka, JMS, etc., APM observability tools",
+                    "Excellent understanding of Object-Oriented systems design and Application Development",
+                    "Must be legally authorized to work in the United States for any employer without sponsorship",
+                    "Successful completion of the interview is required to meet the job qualification",
+                    "Reliable, punctual attendance is an essential function of the position"
+                ],
+                "Benefits": [
+                    "The base pay range for this role is $112,480.00 to $146,540.00",
+                    "The base salary range/hourly rate listed is dependent on job-related, factors such as experience, education, and skills",
+                    "This position is also eligible for bonus and/or long-term incentive compensation awards",
+                    "You may be eligible for the following competitive benefits: medical, dental, vision, life, accident & disability, parental leave, employee assistance program, commuter, paid holidays, paid time off, 401(k) and flight privileges"
+                ],
+                "Responsibilities": [
+                    "The Senior Software Developer will be responsible for the development of critical applications, while working with a team of developers",
+                    "This role will design, develop, document, test and debug new and existing applications",
+                    "Additionally, this role will build these applications with a focus on delivering cloud-based solutions",
+                    "The individual will use groundbreaking technologies and enterprise grade integration software daily and will be relied upon to help take the team to the next level from a technological standpoint",
+                    "Manages and participates in the full development life cycle, including requirements analysis and design, using Agile methodologies",
+                    "Serve as a technical expert on development projects",
+                    "Creates the application framework, reusable components, and coding guidelines",
+                    "Good knowledge of deployment practices, pipelines, and related technologies",
+                    "Write technical specifications based on the conceptual design and stated business requirements",
+                    "Support, maintain, and document software functionality",
+                    "Identify and evaluate new technologies for implementation",
+                    "Analyze code to find causes of errors and revise programs as needed",
+                    "Manages and participates in software design meetings and analyzes user needs to determine technical requirements",
+                    "Collaborate & lead tech teams consisting of employees & vendor company contractors in planning and execution, serving as a technology leader",
+                    "Collaborate with end user to prototype, refine, test, and debug programs to meet needs"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "y9Y6oQtuH3O1r1cQAAAAAA==",
+            "job_title": "INTL - Remote Full Stack Developer - LATAM",
+            "employer_name": "Lensa",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0EfPVHF5N0I08Ioa1WKZDYxcfrJkurRgwcHI5&s=0",
+            "employer_website": "https://lensa.com",
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/intl-remote-full-stack-developer-latam-at-lensa-4378670922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/intl-remote-full-stack-developer-latam-at-lensa-4378670922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Adzuna",
+                    "apply_link": "https://www.adzuna.com/details/5574648750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "EarnBetter",
+                    "apply_link": "https://earnbetter.com/app/job/01KEG8F4MA4JAMEX01YN62BYJV/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Alivio Search Partners",
+                    "apply_link": "https://aliviosearchpartners.com/jobs/full-stack-developer-vuejs-nodejs-remote-latam?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Jobzen",
+                    "apply_link": "https://jobzen.topsiksha.com/job/intl-remote-full-stack-developer-latam?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "VagaNerd",
+                    "apply_link": "https://vaganerd.com/vagas/intl-remote-full-stack-vaganerd-648bd3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/intl-remote-full-stack-developer-latam-at-lensa-4378670922",
+                    "is_direct": null,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Lensa is a career site that helps job seekers find great jobs in the US. We are not a staffing firm or agency. Lensa does not hire directly for these jobs, but promotes jobs on LinkedIn on behalf of its direct clients, recruitment ad agencies, and marketing partners. Lensa partners with DirectEmployers to promote this job for Insight Global. Clicking \"Apply Now\" or \"Read more\" on Lensa redirects you to the job board/employer site. Any information collected there is subject to their terms and privacy notice.\n\nJob Description\n\nThis large global hotel chain is revamping a CMS product that will feature landing pages. They are rewriting the back end, and this team has taken over the front end as they build it out. This product is more customer/user focused, as the data that goes into the tool goes out to be serviced to the hotel guest. The team needs a skilled full stack developer who has React on the front end with Node.Js, and AWS on the back end. There will be some API work as well, so front end user facing development is a must. This developer should have great communication, being collaborative, resourceful, and strategic in their development (not just a heads down developer). Ideally the team would like someone who has used diagram tools to present ideas well.\n\nWe are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity/affirmative action employer that believes everyone matters. Qualified candidates will receive consideration for employment regardless of their race, color, ethnicity, religion, sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military or uniformed service member status, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to HR@insightglobal.com.To learn more about how we collect, keep, and process your private information, please review Insight Global's Workforce Privacy Policy: https://insightglobal.com/workforce-privacy-policy/.\n\nSkills And Requirements\n\nFront End Framework: React, TypeScript - React is the framework, Typescript is the programming language (they should have both)\n\nAWS Specific Services (Lambda, API Gateway, Document DB/MongoDB, DynamoDB)\n\nBackend: NodeJs, TypeScript, Serverless Framework\n\nAPI work, front end user facing work is necessary and would make this candidate stand out\n\nGreat communication, collaborative and strategic in their development (not just a heads down developer)\n\nSomeone who can use diagram tools to present ideas well (more than just a heads down developer but someone who can stick their neck out and be resourceful, proactive). IaaC: Terraform\n\nMonitoring Tools: DataDog\n\nAI skills such as Claude Code\n\nSomone who has worked on a CMS product\n\nIf you have questions about this posting, please contact support@lensa.com",
+            "job_is_remote": true,
+            "job_posted_at": "1 day ago",
+            "job_posted_at_timestamp": 1772150400,
+            "job_posted_at_datetime_utc": "2026-02-27T00:00:00.000Z",
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dy9Y6oQtuH3O1r1cQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "The team needs a skilled full stack developer who has React on the front end with Node.Js, and AWS on the back end",
+                    "There will be some API work as well, so front end user facing development is a must",
+                    "This developer should have great communication, being collaborative, resourceful, and strategic in their development (not just a heads down developer)",
+                    "Ideally the team would like someone who has used diagram tools to present ideas well",
+                    "Front End Framework: React, TypeScript - React is the framework, Typescript is the programming language (they should have both)",
+                    "Backend: NodeJs, TypeScript, Serverless Framework",
+                    "API work, front end user facing work is necessary and would make this candidate stand out",
+                    "Great communication, collaborative and strategic in their development (not just a heads down developer)",
+                    "Someone who can use diagram tools to present ideas well (more than just a heads down developer but someone who can stick their neck out and be resourceful, proactive)",
+                    "IaaC: Terraform",
+                    "AI skills such as Claude Code",
+                    "Somone who has worked on a CMS product"
+                ],
+                "Benefits": [
+                    "Monitoring Tools: DataDog"
+                ],
+                "Responsibilities": [
+                    "This product is more customer/user focused, as the data that goes into the tool goes out to be serviced to the hotel guest"
+                ]
+            },
+            "job_onet_soc": "15113300",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "ntB5gNI8t8GgJiiuAAAAAA==",
+            "job_title": "\".Net Developer with Azure\"-Hybrid Role-Chicago, IL",
+            "employer_name": "Jobs via Dice",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/net-developer-with-azure-hybrid-role-chicago-il-at-jobs-via-dice-4377996534?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/net-developer-with-azure-hybrid-role-chicago-il-at-jobs-via-dice-4377996534?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/net-developer-with-azure-hybrid-role-chicago-il-at-jobs-via-dice-4377996534",
+                    "is_direct": null,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, Empower Professionals, is seeking the following. Apply via Dice today!\n\nRole- .Net Developer\n\nLocation- Chicago, IL.-3 days onsite\n\nMust Have Skills\n\nDot Net\n\nAzure\n\ntyperscript\n\nKey Responsibilities\n\u2022 Design and implement Azure Functions based microservices and serverless architectures.\n\u2022 Build RESTful APIs with authentication and security controls (JWT, Azure AD).\n\u2022 Develop AI-powered data processing pipelines using Azure OpenAI services and GPT models.\n\u2022 Implement:\n\u2022 Blob Storage management\n\u2022 Search indexing (Azure AI Search)\n\u2022 Database operations using Entity Framework Core and SQL Server\n\u2022 Create intelligent data extraction systems with JSON schema validation and configuration management.\n\u2022 Build workflow engines with state management and business process automation.\n\nFrontend Development\n\u2022 Develop modern React applications using TypeScript and component-based architecture.\n\u2022 Implement interactive features using Canvas API and advanced UI libraries.\n\u2022 Build real-time notification systems and data visualization dashboards using Material-UI.\n\u2022 Create document viewers and annotation capabilities for collaborative features.\n\u2022 Integrate Azure AI Search for:\n\u2022 Semantic search\n\u2022 Vector embeddings\n\u2022 Intelligent query capabilities\n\u2022 Develop responsive and accessible enteprise-grade user interfaces.\n\nAI / ML Integration\n\u2022 Implement AI-powered text analysis and extraction using Azure OpenAI and GPT models.\n\u2022 Design prompt engineering strategies with structured outputs and configurable schemas.\n\u2022 Optimize token usage and handle rate limiting with retry logic.\n\u2022 Work with embedding models for semantic search and similarity matching.\n\u2022 Integrate managed identity authentication for secure AI service access.\n\u2022 Develop hybrid solutions combining multiple AI services.\n\nDevOps & Infrastructure\n\u2022 Maintain CI/CD pipelines using Azure DevOps (YAML pipelines, build & release automation).\n\u2022 Manage multi-environment deployments:\n\u2022 DEV QA STG PROD\n\u2022 Implement infrastructure as code and application configuration management.\n\u2022 Monitor performance, cost, and usage via Azure Monitor and Application Insights.\n\u2022 Manage Git workflows including feature branching, rebasing, cherry-picking, and PR management.\n\nQuality & Maintenance\n\u2022 Write unit and integration tests for backend and frontend applications.\n\u2022 Conduct code reviews and ensure coding standards compliance.\n\u2022 Debug production issues with proper logging and error handling.\n\u2022 Optimize database queries, storage operations, and API performance.\n\u2022 Document technical implementations, APIs, and system architecture.\n\nRequired Qualifications\n\nBackend\n\u2022 5+ years of C#/.NET development (.NET Core / .NET 6+)\n\u2022 Azure Functions\n\u2022 RESTful API design\n\u2022 3+ years of React development\n\u2022 TypeScript, Hooks, Context API\n\u2022 Modern state management\n\u2022 Strong Azure experience including:\n\u2022 Blob Storage\n\u2022 Azure Functions\n\u2022 App Service\n\u2022 Key Vault\n\u2022 Application Insights\n\u2022 Entity Framework Core\n\u2022 SQL Server\n\u2022 LINQ\n\u2022 Database design & query optimization\n\u2022 Experience with Azure OpenAI and GPT models\n\nEarly response is appreciated....\n\nIn compliance with the salary transparency law, the expected pay range for this role is $40-45.00/hr. Actual compensation depends on experience and interview evaluation.\n\nThanks Kripali Sahu Technical Recruiter | Empower Professionals Phone: x 332 -------------------------------------------------------------------------------------------------------------\n\nFax: | 100 Franklin Square Drive Suite 104 | Somerset, NJ 08873\n\nCertified NJ and NY Minority Business Enterprise (NMSDC)",
+            "job_is_remote": false,
+            "job_posted_at": "5 hours ago",
+            "job_posted_at_timestamp": 1772240400,
+            "job_posted_at_datetime_utc": "2026-02-28T01:00:00.000Z",
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DntB5gNI8t8GgJiiuAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_min_salary": 40,
+            "job_max_salary": 45,
+            "job_salary_period": "HOUR",
+            "job_highlights": {
+                "Qualifications": [
+                    "Frontend Development",
+                    "Develop modern React applications using TypeScript and component-based architecture",
+                    "Intelligent query capabilities",
+                    "Develop responsive and accessible enteprise-grade user interfaces",
+                    "5+ years of C#/.NET development (.NET Core / .NET 6+)",
+                    "Azure Functions",
+                    "3+ years of React development",
+                    "TypeScript, Hooks, Context API",
+                    "Modern state management",
+                    "Strong Azure experience including:",
+                    "Blob Storage",
+                    "Entity Framework Core",
+                    "SQL Server",
+                    "Experience with Azure OpenAI and GPT models"
+                ],
+                "Benefits": [
+                    "In compliance with the salary transparency law, the expected pay range for this role is $40-45.00/hr"
+                ],
+                "Responsibilities": [
+                    "Location- Chicago, IL.-3 days onsite",
+                    "Design and implement Azure Functions based microservices and serverless architectures",
+                    "Build RESTful APIs with authentication and security controls (JWT, Azure AD)",
+                    "Develop AI-powered data processing pipelines using Azure OpenAI services and GPT models",
+                    "Implement:",
+                    "Blob Storage management",
+                    "Search indexing (Azure AI Search)",
+                    "Database operations using Entity Framework Core and SQL Server",
+                    "Create intelligent data extraction systems with JSON schema validation and configuration management",
+                    "Build workflow engines with state management and business process automation",
+                    "Implement interactive features using Canvas API and advanced UI libraries",
+                    "Build real-time notification systems and data visualization dashboards using Material-UI",
+                    "Create document viewers and annotation capabilities for collaborative features",
+                    "AI / ML Integration",
+                    "Implement AI-powered text analysis and extraction using Azure OpenAI and GPT models",
+                    "Design prompt engineering strategies with structured outputs and configurable schemas",
+                    "Optimize token usage and handle rate limiting with retry logic",
+                    "Work with embedding models for semantic search and similarity matching",
+                    "Integrate managed identity authentication for secure AI service access",
+                    "Develop hybrid solutions combining multiple AI services",
+                    "DevOps & Infrastructure",
+                    "Maintain CI/CD pipelines using Azure DevOps (YAML pipelines, build & release automation)",
+                    "Manage multi-environment deployments:",
+                    "DEV QA STG PROD",
+                    "Implement infrastructure as code and application configuration management",
+                    "Monitor performance, cost, and usage via Azure Monitor and Application Insights",
+                    "Manage Git workflows including feature branching, rebasing, cherry-picking, and PR management",
+                    "Quality & Maintenance",
+                    "Write unit and integration tests for backend and frontend applications",
+                    "Conduct code reviews and ensure coding standards compliance",
+                    "Debug production issues with proper logging and error handling",
+                    "Optimize database queries, storage operations, and API performance",
+                    "Document technical implementations, APIs, and system architecture",
+                    "Database design & query optimization"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "0nrAL5CEfLuQIQBHAAAAAA==",
+            "job_title": "javascript developer",
+            "employer_name": "HiringCafe",
+            "employer_logo": null,
+            "employer_website": "https://hiring.cafe",
+            "job_publisher": "HiringCafe",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://hiring.cafe/jobs/javascript-developer/locations/chicago-illinois?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "HiringCafe",
+                    "apply_link": "https://hiring.cafe/jobs/javascript-developer/locations/chicago-illinois?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "OPTnation",
+                    "apply_link": "https://www.optnation.com/javascript-developer-job-in-chicago-il-view-jobid-34988?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Yulys",
+                    "apply_link": "https://yulys.com/jobs/javascript-developer-244ce007-418d-4592-9efe-035fc8b1ebe1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://hiring.cafe/jobs/javascript-developer/locations/chicago-illinois",
+                    "is_direct": null,
+                    "publisher": "HiringCafe"
+                }
+            ],
+            "job_description": "Find Javascript Developer positions in Chicago, IL, US. Browse opportunities on HiringCafe. Apply to remote, hybrid, and onsite positions.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0nrAL5CEfLuQIQBHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {},
+            "job_onet_soc": "15113400",
+            "job_onet_job_zone": "3"
+        },
+        {
+            "job_id": "rDsBeV_AmCEWMVo7AAAAAA==",
+            "job_title": "Python Developer - Associate",
+            "employer_name": "BlackRock",
+            "employer_logo": null,
+            "employer_website": "https://www.blackrock.com",
+            "job_publisher": "BlackRock Careers",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://careers.blackrock.com/job/chicago/python-developer-associate/45831/86556589504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "BlackRock Careers",
+                    "apply_link": "https://careers.blackrock.com/job/chicago/python-developer-associate/45831/86556589504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Indeed",
+                    "apply_link": "https://www.indeed.com/viewjob?jk=fa1793c877b39b55&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Built In Chicago",
+                    "apply_link": "https://www.builtinchicago.org/job/python-developer-associate/7951673?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "ZipRecruiter",
+                    "apply_link": "https://www.ziprecruiter.com/c/BlackRock/Job/Python-Developer-Associate/-in-Chicago,IL?jid=a011fd60700d1a33&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": true
+                },
+                {
+                    "publisher": "Glassdoor",
+                    "apply_link": "https://www.glassdoor.com/job-listing/python-developer-associate-blackrock-JV_IC1128808_KO0,26_KE27,36.htm?jl=1009887318191&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Built In",
+                    "apply_link": "https://builtin.com/job/python-developer-associate/7951673?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Black Women In Asset Management Job Board",
+                    "apply_link": "https://jobs.bwam.network/companies/blackrock/jobs/59436194-python-developer-associate?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Jobright",
+                    "apply_link": "https://jobright.ai/jobs/info/693d9c50aa598a08c3ee2a82?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://careers.blackrock.com/job/chicago/python-developer-associate/45831/86556589504",
+                    "is_direct": null,
+                    "publisher": "BlackRock Careers"
+                }
+            ],
+            "job_description": "About this role\n\nAbout This Role\u202f\nWe are a dynamic, data-driven team at the intersection of finance and technology.\n\nAs a software engineer, you will build applications and processes to help drive business growth. This position requires strong programming skills, analytical thinking, and a passion for learning. You will collaborate with experienced engineers to develop and improve software systems.\u202f\n\nRole Responsibilities:\n\u2022 Design, code, test, and support reliable, robust software applications and services that meet high-quality standards\u202f\n\u2022 Participate in cross-functional feature requirements gathering, design, and implementation\u202f\n\u2022 Collaborate with product management to prioritize and organize development sprints\u202f\n\u2022 Perform code reviews and provide timely, constructive feedback to fellow engineers\u202f\n\nKey Qualifications\u202f\n\u2022 2\u20135 years of experience in Python programming\u202f\n\u2022 Strong background in mathematics, algorithms, logic, and statistics\u202f\n\u2022 Extensive database experience (MySQL preferred; SQL/Postgres also valuable)\n\u2022 Bachelor\u2019s or Master\u2019s degree in Computer Science or STEM field\u202f\n\nRelevant Experience:\n\u2022 Proficiency with Python packages, such as Pandas, NumPy, DashApps\u202f\n\u2022 Hands-on experience with AWS (RDS, EC2, serverless) and Open Container Initiative (OCI) container packaging and runtime\u202f\n\u2022 Interest and knowledge in finance, particularly Options, Stocks, and Bonds\n\nFor Chicago, IL Only the salary range for this position is USD$120,000.00 - USD$148,000.00 . Additionally, employees are eligible for an annual discretionary bonus, and benefits including healthcare, leave benefits, and retirement benefits. BlackRock operates a pay-for-performance compensation philosophy and your total compensation may vary based on role, location, and firm, department and individual performance.\n\nOur benefits\n\nTo help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about.\n\nOur hybrid work model\n\nBlackRock\u2019s hybrid work model is designed to enable a culture of collaboration and apprenticeship that enriches the experience of our employees, while supporting flexibility for all. Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a week. Some business groups may require more time in the office due to their roles and responsibilities. We remain focused on increasing the impactful moments that arise when we work together in person \u2013 aligned with our commitment to performance and innovation. As a new joiner, you can count on this hybrid model to accelerate your learning and onboarding experience here at BlackRock.\n\nAbout BlackRock\n\nAt BlackRock, we are all connected by one mission: to help more and more people experience financial well-being. Our clients, and the people they serve, are saving for retirement, paying for their children\u2019s educations, buying homes and starting businesses. Their investments also help to strengthen the global economy: support businesses small and large; finance infrastructure projects that connect and power cities; and facilitate innovations that drive progress.\n\nThis mission would not be possible without our smartest investment \u2013 the one we make in our employees. It\u2019s why we\u2019re dedicated to creating an environment where our colleagues feel welcomed, valued and supported with networks, benefits and development opportunities to help them thrive.\n\nFor additional information on BlackRock, please visit @blackrock | Twitter: @blackrock | LinkedIn: www.linkedin.com/company/blackrock\n\nBlackRock is proud to be an equal opportunity workplace. We are committed to equal employment opportunity to all applicants and existing employees, and we evaluate qualified applicants without regard to race, creed, color, national origin, sex (including pregnancy and gender identity/expression), sexual orientation, age, ancestry, physical or mental disability, marital status, political affiliation, religion, citizenship status, genetic information, veteran status, or any other basis protected under applicable federal, state, or local law. View the EEOC\u2019s Know Your Rights poster and its supplement and the pay transparency statement.\n\nBlackRock is committed to full inclusion of all qualified individuals and to providing reasonable accommodations or job modifications for individuals with disabilities. If reasonable accommodation/adjustments are needed throughout the employment process, please email Disability.Assistance@blackrock.com. All requests are treated in line with our privacy policy.\n\nBlackRock will consider for employment qualified applicants with arrest or conviction records in a manner consistent with the requirements of the law, including any applicable fair chance law.",
+            "job_is_remote": false,
+            "job_posted_at": null,
+            "job_posted_at_timestamp": null,
+            "job_posted_at_datetime_utc": null,
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": [
+                "health_insurance"
+            ],
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrDsBeV_AmCEWMVo7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "This position requires strong programming skills, analytical thinking, and a passion for learning",
+                    "2\u20135 years of experience in Python programming\u202f",
+                    "Strong background in mathematics, algorithms, logic, and statistics\u202f",
+                    "Bachelor\u2019s or Master\u2019s degree in Computer Science or STEM field\u202f",
+                    "Proficiency with Python packages, such as Pandas, NumPy, DashApps\u202f",
+                    "Hands-on experience with AWS (RDS, EC2, serverless) and Open Container Initiative (OCI) container packaging and runtime\u202f",
+                    "Interest and knowledge in finance, particularly Options, Stocks, and Bonds"
+                ],
+                "Benefits": [
+                    "For Chicago, IL Only the salary range for this position is USD$120,000.00 - USD$148,000.00 ",
+                    "Additionally, employees are eligible for an annual discretionary bonus, and benefits including healthcare, leave benefits, and retirement benefits",
+                    "BlackRock operates a pay-for-performance compensation philosophy and your total compensation may vary based on role, location, and firm, department and individual performance",
+                    "To help you stay energized, engaged and inspired, we offer a wide range of benefits including a strong retirement plan, tuition reimbursement, comprehensive healthcare, support for working parents and Flexible Time Off (FTO) so you can relax, recharge and be there for the people you care about",
+                    "Employees are currently required to work at least 4 days in the office per week, with the flexibility to work from home 1 day a week"
+                ],
+                "Responsibilities": [
+                    "As a software engineer, you will build applications and processes to help drive business growth",
+                    "You will collaborate with experienced engineers to develop and improve software systems.\u202f",
+                    "Design, code, test, and support reliable, robust software applications and services that meet high-quality standards\u202f",
+                    "Participate in cross-functional feature requirements gathering, design, and implementation\u202f",
+                    "Collaborate with product management to prioritize and organize development sprints\u202f",
+                    "Perform code reviews and provide timely, constructive feedback to fellow engineers\u202f"
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        },
+        {
+            "job_id": "piGClKwB4NDaxD6HAAAAAA==",
+            "job_title": "Google Cloud Platform Deveops (Onsite role in Chicago,IL)",
+            "employer_name": "Jobs via Dice",
+            "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9CC1NlnLA7sshF1s1dqKvk8U495jsMwImnyPP&s=0",
+            "employer_website": null,
+            "job_publisher": "LinkedIn",
+            "job_employment_type": "Full-time",
+            "job_employment_types": [
+                "FULLTIME"
+            ],
+            "job_apply_link": "https://www.linkedin.com/jobs/view/google-cloud-platform-deveops-onsite-role-in-chicago-il-at-jobs-via-dice-4377937751?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+            "job_apply_is_direct": false,
+            "apply_options": [
+                {
+                    "publisher": "LinkedIn",
+                    "apply_link": "https://www.linkedin.com/jobs/view/google-cloud-platform-deveops-onsite-role-in-chicago-il-at-jobs-via-dice-4377937751?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "publisher": "Dice",
+                    "apply_link": "https://www.dice.com/job-detail/f8adad8a-5cfd-4949-8b0e-daa4f1fc6362?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+                    "is_direct": false
+                },
+                {
+                    "apply_link": "https://www.linkedin.com/jobs/view/google-cloud-platform-deveops-onsite-role-in-chicago-il-at-jobs-via-dice-4377937751",
+                    "is_direct": null,
+                    "publisher": "LinkedIn"
+                }
+            ],
+            "job_description": "Dice is the leading career destination for tech experts at every stage of their careers. Our client, EdgeAll, is seeking the following. Apply via Dice today!\n\n\"Google Cloud Platform DevOps work for the Edge Platform team:\n\nMandatory skills(Hands On)\n\nInfrastructure architecture, DevOps, or cloud engineering roles.\n\nDeep, hands-on expertise with Terraform (advanced level), including reusable modules, remote state, and workspaces.\n\nAdvanced knowledge of Google Cloud Platform (Google Cloud Platform) services and architectural patterns.\n\nProficient in Python scripting for infrastructure automation and integration.\n\nProven experience in building and maintaining CI/CD pipelines using Git-based workflow\n\nDeep, hands-on expertise with on Kubernetes or GKE.\n\nGood to have and advantage if below is available :\n\nExperience with GDCC (Google Distributed Cloud).\n\nStrong understanding of Cloud IAM, RBAC, and Workload Identity Federation for secure authentication across services.\n\nSolid background in cloud security, including encryption, firewall policies, VPC design, and service accounts.\"",
+            "job_is_remote": false,
+            "job_posted_at": "11 hours ago",
+            "job_posted_at_timestamp": 1772218800,
+            "job_posted_at_datetime_utc": "2026-02-27T19:00:00.000Z",
+            "job_location": "Chicago, IL",
+            "job_city": "Chicago",
+            "job_state": "Illinois",
+            "job_country": "US",
+            "job_latitude": 41.88325,
+            "job_longitude": -87.6323879,
+            "job_benefits": null,
+            "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpiGClKwB4NDaxD6HAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+            "job_salary": null,
+            "job_min_salary": null,
+            "job_max_salary": null,
+            "job_salary_period": null,
+            "job_highlights": {
+                "Qualifications": [
+                    "Mandatory skills(Hands On)",
+                    "Infrastructure architecture, DevOps, or cloud engineering roles",
+                    "Deep, hands-on expertise with Terraform (advanced level), including reusable modules, remote state, and workspaces",
+                    "Advanced knowledge of Google Cloud Platform (Google Cloud Platform) services and architectural patterns",
+                    "Proficient in Python scripting for infrastructure automation and integration",
+                    "Proven experience in building and maintaining CI/CD pipelines using Git-based workflow",
+                    "Deep, hands-on expertise with on Kubernetes or GKE",
+                    "Experience with GDCC (Google Distributed Cloud)",
+                    "Strong understanding of Cloud IAM, RBAC, and Workload Identity Federation for secure authentication across services",
+                    "Solid background in cloud security, including encryption, firewall policies, VPC design, and service accounts.\""
+                ]
+            },
+            "job_onet_soc": "15113200",
+            "job_onet_job_zone": "4"
+        }
+    ]
+}
