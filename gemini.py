@@ -1,5 +1,6 @@
 from google import genai
 import os
+from CallJSearch import genSummarizedJobOutputJSON as jobOutput
 
 def _load_dotenv_if_present(dotenv_path: str = ".env") -> bool:
     try:
@@ -41,25 +42,22 @@ if not os.path.exists(resume_path):
 
 doc = docx.Document(resume_path)
 resume_text = "\n".join(p.text for p in doc.paragraphs if p.text.strip())
-
-base_prompt = "Role: Career Coach; Task: Identify gaps in the resume"
-if not job_description:
-    prompt = (
-        base_prompt
-        + " and provide a list of 3-5 potential resume improvements suitable for a generic data/analytics role."
-    )
-else:
+job_dict = jobOutput("Data Analyst (Intern) in Washington, DC")
+for job in job_dict.keys():
+    base_prompt = "Role: Career Coach; Task: Identify gaps in the resume"
     prompt = (
         base_prompt
         + " relative to this job description: "
-        + job_description
+        + job_dict[job]["description"]
         + " and provide a list of 3-5 potential resume improvements."
     )
 
-full_prompt = "Here is the resume content:\n\n" + resume_text + "\n\n" + prompt
-response = client.models.generate_content(
-    model="gemini-2.5-flash",
-    contents=[full_prompt],
-    config={"http_options": {"timeout": 60000}},
-)
-print(response.text)
+    full_prompt = "Here is the resume content:\n\n" + resume_text + "\n\n" + prompt
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=[full_prompt],
+        config={"http_options": {"timeout": 60000}},
+    )
+    print(response.text)
+    with open("gemini_response.txt", "w") as file:
+        file.write(response.text)

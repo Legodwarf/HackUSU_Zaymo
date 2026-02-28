@@ -23,10 +23,10 @@ def genSummarizedJobOutputJSON(query, country="us"):
 
     # print(response.json())
 
-    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "w") as file:
+    with open("FullOutput.json", "w", encoding="utf-8") as file:
         json.dump(response.json(), file, indent=4)
 
-    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "r") as file:
+    with open("FullOutput.json", "r", encoding="utf-8") as file:
         fullJobDict = json.load(file)
 
     sumJobDict = {}
@@ -55,7 +55,7 @@ def genSummarizedJobOutputJSON(query, country="us"):
         except KeyError:
             sumJobDict[jobSumTitle]["responsibilitiesList"] = None
 
-    with open("/workspaces/HackUSU_Zaymo/ExampleSummarizedOutput.json", "w") as file:
+    with open("ExampleSummarizedOutput.json", "w") as file:
         json.dump(sumJobDict, file, indent=4)
 
     return sumJobDict
