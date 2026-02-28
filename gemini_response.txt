@@ -323,4 +323,412 @@ Here are the key gaps:
 5.  **Refine "TOOLS / SKILLS" Section Structure:**
     *   As mentioned in point #1, currently "TOOLS / SKILLS" is just a header. Restructure this to be a clear, concise list of your technical skills, organized by category (e.g., Programming, Data Visualization, Cloud, Databases, Software). This makes it much easier to read and parse quickly.
 
-By addressing these points, the resume will more directly align with the specific requirements of the MSTS Data Analyst Intern position, increasing the likelihood of passing initial screenings.
+By addressing these points, the resume will more directly align with the specific requirements of the MSTS Data Analyst Intern position, increasing the likelihood of passing initial screenings.### **Step 2: Identified Gaps in Resume Relative to Job Description**
+
+*   **Explicit Tableau Experience:** While SQL is strong, the resume does not explicitly list Tableau or Power BI as known tools, which is a preferred skill for building dashboards.
+*   **Explicit Microsoft Office Suite Experience:** The job description requires "Experience with Windows operating system and Microsoft Office suite, including Excel, Word, and PowerPoint," which are not explicitly listed in the resume's "TOOLS / SKILLS" section.
+*   **Gaming Industry Interest:** The resume lacks any expressed interest or connection to the land-based gaming industry, which is central to the company and internship's focus.
+*   **Age Requirement Confirmation:** The resume does not confirm if the candidate will be 21 years of age by June 1, 2026, a strict requirement. (This is for the candidate to verify.)
+
+### **Step 3: Recommendations**
+
+**Key Skills to Develop:**
+
+1.  **Tableau Proficiency:** Focus on creating interactive dashboards and visualizations to translate data into actionable insights for business users.
+2.  **Advanced Excel & PowerPoint:** Strengthen skills in complex data manipulation, pivot tables, and professional presentation design for compelling business analyses.
+3.  **Gaming Industry Acumen:** Research the land-based gaming industry's business models, key metrics, and current analytical challenges to better understand the role's context.
+
+**Concise Resume Changes (50 words or less):**
+
+1.  Add "Microsoft Office Suite (Excel, Word, PowerPoint)" to the "TOOLS / SKILLS" section.
+2.  If any Tableau experience exists, add it under "TOOLS / SKILLS." Otherwise, emphasize data visualization in project descriptions.
+3.  Tailor the "Business Case" project description to highlight how analyses directly informed strategic business decisions and projected profitability.Here's an analysis of your resume relative to the Business Intelligence UWEP job description:
+
+### Step 2: Identified Gaps
+
+1.  **Tableau/Data Visualization Software:** The job description explicitly mentions building and updating Tableau dashboards, and lists "Familiarity of Tableau, or another data visualization software" as a qualification. Your resume currently lacks any mention of Tableau, Power BI, or similar dedicated BI visualization tools.
+2.  **MS Office Suite Proficiency:** Proficiency in MS Word, Excel, PowerPoint, and Outlook is a required qualification. While some are often assumed for college students, explicitly listing them, especially Excel and PowerPoint, would strengthen your application.
+3.  **Business Acumen & Actionable Recommendations:** The role requires translating data across "revenue-driving verticals" into "targeted analyses, providing insights and recommendations to critical organizational stakeholders that lead to actionable business decisions." While your "Business Case" project analyzes profitability, it could be stronger in explicitly demonstrating the connection to specific business metrics, stakeholders, and driving decisions.
+4.  **Sports-Specific Data Analysis:** The job specifically mentions generating analysis of "match performance data" and unlocking "commercial value." Your current projects are strong in general data analytics but lack domain-specific experience in sports data.
+5.  **Process Improvement for Data Collection/Reporting:** The role asks to "Identify opportunities to implement procedures for new data collection processes and/or data reporting." Your resume shows data collection, but not necessarily a focus on improving the processes themselves.
+6.  **Explicit Quality Assurance for Dashboards/Reports:** While your TA role involves "corrective feedback," the job's QA aspect is specifically about ensuring "dashboards/reports are functioning correctly."
+
+### Step 3: Recommendations
+
+#### Key Skills to Develop
+
+1.  **Tableau (or Power BI) Proficiency:** This is critical for the core duties of building and maintaining dashboards.
+2.  **Business Intelligence Storytelling:** Focus on translating complex data insights into clear, actionable business recommendations for non-technical stakeholders, particularly tied to revenue growth.
+3.  **Process Optimization for Data Pipelines:** Develop skills in identifying and implementing efficient procedures for data collection, cleaning, and reporting.
+
+#### Concise Resume Changes (50 words or less)
+
+*   **Populate "TOOLS / SKILLS":** Explicitly add Tableau (if learned), MS Office (Excel, PowerPoint), and any Python visualization libraries used.
+*   **Enhance Project Impact:** Rephrase the "Business Case" project to highlight data-driven *actionable recommendations* for *stakeholders* and potential *revenue-driving verticals*.
+*   **Integrate Quality Assurance:** Update relevant work experience (e.g., TA role) to explicitly mention ensuring *data quality*, *accuracy*, or *system functionality*.As your Career Coach, I've reviewed your resume against the Power BI Intern job description.
+
+### Gaps in Resume
+
+*   **Core Power BI Skills:** No mention of Power BI, DAX, or Power Query, which are central requirements.
+*   **Data Modeling & Statistical Analysis:** Lacks explicit listing or strong demonstration of these preferred skills.
+*   **Other Visualization Tools:** No mention of Tableau or other data visualization software beyond implicit Python libraries.
+*   **Excel & SharePoint:** While implied, explicit mention of Excel proficiency for data analysis and any SharePoint experience is missing.
+*   **Microsoft Azure:** Experience is with AWS, but Microsoft Azure is a preferred platform for this role.
+
+### Key Skills to Develop
+
+1.  **Power BI Proficiency (DAX & Power Query):** Master designing dashboards, writing DAX expressions, and using Power Query for data transformation.
+2.  **Data Modeling:** Understand relational database concepts, star/snowflake schemas, and how to build efficient data models.
+3.  **Advanced Excel & SharePoint:** Gain expertise in advanced Excel functions for data manipulation and familiarity with SharePoint as a data source.
+
+### Concise Resume Changes
+
+*   **Show Power BI Expertise:** Add Power BI, DAX, and Power Query to 'TOOLS / SKILLS'. Create and highlight a new Power BI dashboard project.
+*   **Enhance Data Visualization:** Explicitly list "Data Visualization" under skills. Detail any other visualization tools (e.g., Tableau, Matplotlib) you've used.
+*   **Include Modeling/Stats:** Add "Data Modeling" and "Statistical Analysis" to skills. Integrate these concepts into relevant project descriptions.As your career coach, I've reviewed your resume and the Business Analyst Intern job description. Here are the gaps and actionable steps:
+
+### Identified Gaps in Resume Relative to Job Description
+
+Your resume demonstrates strong technical data analysis skills, project management, and general leadership, communication, and work ethic. However, there are significant gaps concerning core Business Analyst functions:
+
+*   **Business Process Documentation:** Lack of explicit experience or mention of creating formal process documentation (process models, business requirements traceability matrixes, use case documentation).
+*   **Requirements Elicitation & Management:** Limited evidence of facilitating stakeholder discussions to elicit, analyze, communicate, and validate business requirements, or transforming policy/operational needs into structured requirements.
+*   **Impact Assessment & Process Improvement:** No explicit mention of performing impact assessments on process design, evaluating workflow changes, or identifying key performance indicators (KPIs) for processes.
+*   **Specific BA Communication Skills:** While general communication is strong, the resume doesn't highlight experience in presenting complex processes or analysis artifacts to non-technical audiences, or dialogue with systems analysts/subject matter experts (SMEs) about requirements in an agile environment.
+*   **Specific Tools:** Standard business tools like MS Excel and PowerPoint are essential for a Business Analyst and are not explicitly listed in your "TOOLS / SKILLS" section. Agile methodology exposure is also missing.
+
+### Recommendations
+
+**Key Skills to Develop:**
+
+*   **Business Process Modeling & Documentation:** Learn and practice tools/methodologies for creating process flowcharts (e.g., BPMN), writing detailed business requirements documents (BRDs), and developing use cases.
+*   **Requirements Elicitation Techniques:** Gain familiarity with structured methods for gathering, analyzing, and validating stakeholder requirements (e.g., conducting interviews, workshops, surveys).
+*   **Business Acumen & Impact Assessment:** Focus on understanding how processes and system changes impact business outcomes, and practice performing impact assessments on operational policies or proposed changes.
+
+**Concise Resume Changes (50 words or less):**
+
+*   Add "MS Office Suite (Excel, PowerPoint)" to your Skills section.
+*   Update project/work bullets to highlight any instances of analyzing processes, gathering requirements, or explaining technical concepts to non-technical audiences.
+*   Consider adding coursework or independent study related to business process modeling, requirements analysis, or agile project methodologies.Here's an analysis of your resume against the Junior Data Analyst Intern job description:
+
+### Step 2: Identified Gaps
+
+The resume demonstrates strong foundational skills in data analytics, Python, SQL, and project management, which are highly relevant. However, key gaps relative to the job description include:
+
+*   **Microsoft Excel Proficiency:** No explicit mention of Excel skills (pivot tables, VLOOKUP, formulas), which is a required qualification.
+*   **Data Visualization Tools:** Lacks explicit experience with BI tools like Tableau or Power BI, which is desirable and a key responsibility.
+*   **Explicit Data Cleaning/Validation:** While implied by "gathering data" and "ensuring student output aligns with project requirements," direct experience with "collection, cleaning, and validation of data from various sources" as a specific task isn't clearly highlighted.
+*   **Soft Skills (Minor):** While analytical and problem-solving skills are evident, explicitly stating "excellent attention to detail and accuracy" and "eagerness to learn and adapt" would strengthen alignment.
+
+### Step 3: Recommendations
+
+**Key Skills to Develop:**
+
+1.  **Microsoft Excel Mastery:** Focus on pivot tables, VLOOKUP, advanced formulas, and data manipulation functions.
+2.  **Data Visualization (Tableau/Power BI):** Gain hands-on experience in building dashboards and reports using either Tableau or Power BI.
+3.  **Data Cleaning & Validation Techniques:** Deepen practical skills in identifying and resolving data quality issues across various datasets.
+
+**Concise Resume Changes (50 words or less):**
+
+1.  Add "Microsoft Excel (Pivot Tables, VLOOKUP, Formulas)" to your "TOOLS / SKILLS" section.
+2.  Explicitly state experience with Tableau/Power BI under "TOOLS / SKILLS" once proficient.
+3.  Update project bullets to highlight specific "data cleaning, validation, and visualization" processes used.As your career coach, here's an analysis of your resume against the MSTS Data Analyst Intern job description:
+
+### Key Skills to Develop
+*   **PowerBI Proficiency:** This is a direct requirement and primary duty; gaining hands-on experience developing dashboards is crucial.
+*   **SQL for Automated Reporting:** Deepen SQL skills specifically for automating metric collection and reporting, aligning with collaboration on data sources.
+*   **Data Visualization & Storytelling:** Practice creating and delivering presentations on projects, focusing on effectively communicating data insights to diverse audiences.
+
+### Resume Changes to Make
+*   **Add "PowerBI" to the "TOOLS / SKILLS" section.**
+*   **State "U.S. Citizen" and "Valid Driver's License" under your contact information.**
+*   **Include "Microsoft Office (Excel, PowerPoint)" in your "TOOLS / SKILLS" list.**As your career coach, let's break down your resume against this exciting Business Intelligence Intern opportunity.
+
+### Step 2: Identified Gaps in Resume
+
+**Technical Gaps:**
+*   **Dashboarding Tools:** The job specifically mentions learning Tableau. Your resume heavily features Python and SQL for analysis but lacks direct experience with visualization/dashboarding tools like Tableau or Power BI.
+*   **Project Management Tool:** Wrike is specified. While a minor tool-specific gap, demonstrating familiarity with any structured project management approach would be beneficial.
+*   **Advanced Excel:** Although generally assumed, explicit mention or demonstration of advanced Excel skills (e.g., pivot tables, data modeling) for BI tasks would strengthen your profile.
+
+**Experience/Highlighting Gaps:**
+*   **Direct Business Intelligence Focus:** While your projects demonstrate strong analytical capabilities, explicitly linking your analyses to guiding "key business decisions and strategies" could be stronger.
+*   **Industry Knowledge:** No specific mention of the gaming or hospitality industry. While not a hard requirement for an intern, showing some prior research or interest would be beneficial.
+*   **Explicit Soft Skill Listing:** While your experience demonstrates problem-solving, critical thinking, time management, and collaboration, explicitly stating these in a "Skills" section (beyond just tools) would align directly with job requirements.
+*   **PowerPoint for Reporting:** You've done analysis, but the role involves compiling analyses into PowerPoint. Highlighting any experience creating presentations from data would be useful.
+
+**Missing Information (for application):**
+*   Your age (must be 21 by June 1, 2026).
+*   Confirmation of work authorization without sponsorship.
+
+### Step 3: Recommendations
+
+**Key Skills to Develop:**
+1.  **Tableau/Power BI Proficiency:** Focus on building interactive dashboards and visualizations to translate data insights.
+2.  **Advanced Excel for Data Analysis:** Master functions, pivot tables, and data modeling for robust reporting.
+3.  **Business Intelligence Concepts & Applications:** Understand how data drives strategic decisions and explore relevant industry trends.
+
+**Concise Resume Changes (50 words or less):**
+1.  **Create a dedicated "Technical Skills" section:** Explicitly list Python, SQL, AWS, GitHub, and Microsoft Office (Excel, PowerPoint).
+2.  **Integrate Business Impact:** Emphasize how your projects/analyses directly informed strategic decisions or profitability.
+3.  **Add a concise "Summary/Objective" statement:** Tailor it to Business Intelligence, leveraging existing skills and expressing interest in the gaming industry.Here's an analysis of your resume relative to the Business Intelligence UWEP Internship, followed by recommended steps.
+
+### Step 2: Gaps Identification
+
+**Strengths:**
+
+*   **Education & Major:** Bachelor of Science in Data Analytics aligns perfectly.
+*   **Technical Skills:** Strong foundation in Python and SQL is explicitly demonstrated through projects and the Teaching Assistant role, fulfilling a key qualification.
+*   **Data Analysis Experience:** Projects like "Business Case" and "Stock Trading Simulation" showcase analytical thinking, data gathering, and evaluation skills.
+*   **Work Ethic & Leadership:** Your GPA while working, the Analytics Solutions Center role, FSY, and volunteer experience demonstrate a strong work ethic, leadership capabilities, and a "team-first" mentality.
+*   **Organizational & Detail-Oriented:** Managing teams, grading, processing policy documents, and planning events highlight organizational skills and attention to detail.
+*   **Communication Skills:** Teaching Assistant, FSY (adjusting methods), Account Manager (liaising), and volunteer leadership all point to good communication.
+*   **Remote Readiness:** Experience with AWS suggests comfort with cloud environments, and your ability to work independently in various roles hints at remote work suitability.
+
+**Gaps:**
+
+*   **Tableau Proficiency:** This is the most significant technical gap. The job description frequently mentions "Tableau dashboards," and "Familiarity of Tableau, or another data visualization software" is a key qualification. Your resume does not mention Tableau or any specific data visualization tool, despite demonstrating data analysis skills.
+*   **Explicit MS Office Skills:** While likely assumed for a college student, explicit mention of "MS Word, Excel, PowerPoint, Outlook" is requested in the qualifications. Advanced Excel skills, in particular, are often crucial for BI roles.
+*   **Sports Industry Context/Interest:** The USL is a professional sports league. While not a strict requirement, demonstrating an interest in sports analytics or how data drives business decisions in the sports industry would be a significant advantage. Your current "History Buff" interest is irrelevant.
+*   **Dashboard-Specific Experience:** While you have strong analytical projects, none explicitly mention the creation or maintenance of interactive dashboards for ongoing business intelligence, which is a core duty of this role.
+*   **Revenue-Driving Vertical Analysis:** The job asks to "Translate data across key revenue-driving verticals (e.g., ticketing, corporate partnerships, and consumer products) into targeted analyses." Your projects are more general analytics, not tied to these specific business functions or sports.
+*   **Eligibility for College Credit:** The qualification states participants "must certify that they are able to receive college course credit." This isn't explicitly mentioned on the resume.
+
+### Step 3: Recommendations
+
+**Key Skills to Develop:**
+
+*   **Tableau Dashboard Development:** Focus on gaining hands-on experience building, maintaining, and automating interactive dashboards using Tableau.
+*   **Advanced Excel for Data Modeling:** Master advanced Excel functions, pivot tables, data visualization, and data modeling for business intelligence applications.
+*   **Sports Business Analytics Acumen:** Research key performance indicators and data applications specific to sports revenue (ticketing, partnerships, match performance) to understand industry context.
+
+**Concise Resume Changes (50 words or less each):**
+
+*   **Update Skills Section:** Add "Tableau," "Microsoft Excel (Advanced)," and "PowerPoint" to your "TOOLS / SKILLS" list. (10 words)
+*   **Enhance Project Descriptions:** For "Business Case," add: "Presented findings via visualizations to inform strategic business decisions." For "Stock Trading Simulation," add: "Visualized results to identify optimal strategies." (26 words)
+*   **Show Industry Interest & Credit Eligibility:** Add "Sports Analytics – Eager to apply data skills to professional sports challenges" under "SKILLS / INTERESTS." Also, add "Eligible for college credit for internships" under Education. (30 words)As your career coach, let's identify how to best position your impressive resume for a Power BI Intern role.
+
+### Skills to Develop
+
+1.  **Power BI Proficiency (DAX & Power Query):** Deepen your understanding and practical application of Power BI, including Data Analysis Expressions (DAX) for complex calculations and Power Query for data transformation.
+2.  **Advanced Excel for Data Analysis:** Focus on advanced Excel functionalities like pivot tables, Power Pivot, lookup functions, and data validation, which are crucial for data cleaning and reporting.
+3.  **Data Modeling Principles:** Learn about different data modeling techniques (e.g., star schema, snowflake schema) and their application in creating efficient and scalable Power BI reports.
+
+### Resume Changes
+
+1.  **TOOLS / SKILLS:** Add "Power BI (learning, basic DAX/Power Query)" to explicitly address the core requirement.
+2.  **TOOLS / SKILLS:** Explicitly list "Excel" and "Data Visualization" to cover preferred qualifications.
+3.  **PROJECTS:** For a relevant project, briefly add a phrase about "visualizing key insights" or "developing interactive dashboards" if applicable to your current experience.As your career coach, I've reviewed your resume against the Business Analyst Intern role. Here are my observations and recommendations:
+
+### Gaps in Resume Relative to Business Analyst Intern Role
+
+Your resume demonstrates strong data analysis, technical proficiency (Python, SQL, AWS), leadership, and excellent interpersonal/communication skills. These are highly valuable for a Business Analyst. However, key gaps lie in specific Business Analyst methodologies and documentation:
+
+*   **Process Modeling & Documentation:** Lack of explicit experience or mention of creating formal process models (e.g., BPMN), use cases, business requirements traceability matrixes, or other formal documentation central to a BA role.
+*   **Requirements Elicitation & Management:** While you collaborate effectively, there's no explicit mention of eliciting, analyzing, and validating *business requirements* from *stakeholders* for system or process changes.
+*   **Impact Assessment (Process/System Focus):** Limited demonstration of evaluating the impact of policy, operational, or system workflow changes on existing processes and performance metrics.
+*   **Specific BA Software/Tools:** While you list strong data tools, the job description explicitly mentions MS Office Suite (Excel, PowerPoint) as minimum requirements, which are not listed in your "TOOLS / SKILLS."
+
+### Key Skills to Develop
+
+1.  **Business Process Mapping & Documentation:** Learn to create process models (e.g., using BPMN standards with tools like Visio/Lucidchart) and practice developing clear, structured business requirements documentation.
+2.  **Requirements Elicitation & Management:** Focus on techniques for gathering, analyzing, and validating stakeholder needs for software or process solutions (e.g., user stories, functional specifications, interviewing).
+3.  **Advanced Excel & Data Visualization for Business:** Master advanced Excel functions, pivot tables, and dashboard creation, specifically for presenting business insights to non-technical audiences.
+
+### Concise Resume Changes
+
+*   **Integrate "MS Office Suite (Excel, PowerPoint)" into "TOOLS / SKILLS."**
+*   **Add a tailored "Summary/Objective"** highlighting interest in business analysis, leveraging data for process improvement.
+*   **Rephrase project/experience bullets** to emphasize requirements gathering, solution documentation, or operational impact assessment.As your career coach, let's break down your resume against this Junior Data Analyst, Business Intelligence internship role.
+
+### Identified Resume Gaps Relative to Job Description
+
+1.  **Specific Excel Proficiency:** The job description explicitly asks for proficiency in Microsoft Excel, including pivot tables, VLOOKUP, and basic formulas. Your resume does not mention Excel at all.
+2.  **Business Intelligence (BI) Tools:** The role "desirably" seeks experience with data visualization tools like Tableau or Power BI. While you demonstrate strong Python visualization skills, these specific BI platforms are not mentioned.
+3.  **Explicit Data Cleaning & Validation:** While your projects imply data preparation ("gather data"), the job responsibilities heavily emphasize "collection, cleaning, and validation of data." This critical aspect isn't explicitly highlighted in your experience.
+4.  **Documentation of Processes:** The role includes "documenting data sources, methodologies, and analytical processes," which is not evident in your current bullet points.
+
+### Key Skills to Develop
+
+1.  **Microsoft Excel:** Master advanced functions, pivot tables, and VLOOKUP for data manipulation and reporting.
+2.  **Tableau / Power BI:** Gain hands-on experience in building interactive dashboards and reports using these industry-standard BI tools.
+3.  **Data Cleaning & Preprocessing:** Develop systematic approaches to identify and resolve data inconsistencies, missing values, and errors.
+
+### Concise Resume Changes
+
+1.  **Add Excel Proficiency:** Under "TOOLS / SKILLS," add "Microsoft Excel (Pivot Tables, VLOOKUP, Formulas)."
+2.  **Highlight BI Tool Interest:** Update "TOOLS / SKILLS" to include your Python visualization libraries and state "eager to learn Tableau/Power BI."
+3.  **Emphasize Data Quality:** Modify project/TA bullets to explicitly mention data cleaning, validation, or documentation steps performed.Here's an analysis of your resume for the Undergraduate Data Analyst for PowerBI Internship, along with recommendations:
+
+### **Gaps Identified in Resume**
+
+The most significant gap is the explicit lack of **PowerBI familiarity**, which is listed as a "must-have" qualification. While your resume showcases strong analytical skills with Python, SQL, and general data analysis, it does not mention any experience with data visualization tools, specifically PowerBI.
+
+Other areas for potential improvement/alignment include:
+
+*   **Automated Reporting:** The job emphasizes "automating metric collection and reporting." While you have experience extracting data via API and performing analyses, explicitly showcasing experience in *automating* this for ongoing reporting would be beneficial.
+*   **Data Visualization/Dashboarding:** Although you have strong project work, highlighting the creation of *dashboards* or visually compelling reports to present insights is not explicitly detailed.
+*   **Direct Application of Tools to Business Problems:** While your "Business Case" project is strong, connecting the dots more explicitly between your analytical work and the creation of actionable, visual reports for decision-makers would strengthen the application.
+*   **Mission Alignment:** While not a skill gap, tailoring a brief statement or bullet point to show interest in applying data analytics to national security or high-hazard experimentation could resonate with MSTS's mission.
+
+### **Key Skills to Develop**
+
+1.  **PowerBI Proficiency:** Gain hands-on experience creating interactive dashboards, connecting to various data sources, transforming data with Power Query, and publishing reports.
+2.  **Data Visualization Best Practices:** Learn principles of effective data storytelling through visuals, ensuring dashboards are clear, actionable, and user-friendly for diverse audiences.
+3.  **Automated ETL & Reporting Workflows:** Practice setting up automated data extraction, transformation, and loading (ETL) processes, specifically leading into dashboard refreshes or automated report generation.
+
+### **Concise Resume Changes to Make**
+
+*   **1. Add PowerBI to Skills:** Immediately gain familiarity with PowerBI and add it to your "TOOLS / SKILLS" section.
+*   **2. Emphasize Visuals/Automation:** Update project bullets to explicitly state when you created dashboards or automated data reporting.
+*   **3. Highlight Presentation of Data:** Refine relevant experience to showcase giving presentations focused on data insights or project progress.**Intern, Business Intelligence**: This Business Intelligence Intern position provides hands-on experience supporting a commercial strategy analytics team. You'll craft data assets to guide business decisions, learn about the land-based gaming industry, build Tableau dashboards, query SQL, contribute to PowerPoint analyses, and track progress with Wrike, ultimately submitting a project report.
+
+**Resume Gaps**:
+*   Lack of explicit experience with dashboarding tools like Tableau or Power BI (preferred skill).
+*   No explicit mention of proficiency in Microsoft Excel and PowerPoint (required for the role).
+*   Absence of stated interest or connection to the gaming industry.
+*   No specific mention of formal project management tool experience (e.g., Wrike).
+
+**Key Skills to Develop**:
+*   Proficiency in dashboarding tools (e.g., Tableau, Power BI) for data visualization and reporting.
+*   Advanced Microsoft Excel skills, particularly for data manipulation and analysis.
+*   Business acumen specific to the land-based gaming industry and commercial strategy.
+
+**Resume Changes to Make**:
+*   Add Tableau or Power BI to your 'TOOLS / SKILLS' section, even if introductory, or state "learning Tableau".
+*   Explicitly list Microsoft Excel and PowerPoint under 'TOOLS / SKILLS' to meet stated requirements.
+*   Update 'SKILLS / INTERESTS' to express interest in applying data analytics to business strategy or the gaming industry.**Business Intelligence UWEP Internship - Fall 2025**: This remote internship with the United Soccer League (USL) focuses on supporting the Technology & Data Strategy team. The intern will assist with collecting data, building and updating Tableau dashboards, translating data into actionable business insights for revenue verticals (e.g., ticketing, partnerships), analyzing match performance, and generating reports/visualizations to support league goals.
+
+**Resume Gaps**:
+*   Lack of explicit Tableau or other data visualization software experience.
+*   No demonstrated interest or experience in the sports industry, particularly soccer.
+*   Limited explicit mention of translating data into actionable business recommendations specific to revenue-driving verticals (ticketing, corporate partnerships, consumer products).
+*   Absence of stated proficiency in MS Word, Excel, PowerPoint, and Outlook.
+*   No experience or mention of analyzing match performance data or related commercial value.
+
+**Key Skills to Develop**:
+*   **Advanced Tableau Dashboard Development:** Focus on creating interactive, insightful dashboards tailored for business stakeholders.
+*   **Sports Business Acumen:** Understand how data drives commercial decisions and value in the sports industry (e.g., ticketing, sponsorships).
+*   **Data Storytelling for Business Decisions:** Practice translating complex analytics into clear, actionable recommendations for non-technical audiences.
+
+**Resume Changes to Make**:
+*   Add "Tableau" and "MS Office Suite (Excel, PowerPoint, Word, Outlook)" to your "TOOLS / SKILLS" section.
+*   Update project descriptions to explicitly highlight how analysis led to actionable business recommendations and measurable insights.
+*   Add "Sports Analytics" or "Soccer Fan" to "SKILLS / INTERESTS" to demonstrate industry relevance.**Business Intelligence Intern**: This 10-week paid internship offers hands-on experience supporting a commercial strategy analytics team in the land-based gaming industry. The intern will craft data assets, learn dashboard creation in Tableau, perform SQL queries, and contribute to data-driven business decisions. Requires problem-solving, collaboration, and strong communication skills.
+
+**Resume Gaps**:
+*   Lack of direct experience with Tableau or Power BI.
+*   No mention of specific experience with dashboard creation or visual analytics.
+*   Limited experience with project management tools like Wrike.
+
+**Key Skills to Develop**:
+*   Tableau: Gain proficiency in creating interactive dashboards for data visualization.
+*   SQL: Deepen understanding and practice complex query writing for data extraction and manipulation.
+*   Wrike (or similar PM tool): Familiarize yourself with project tracking and collaboration features.
+
+**Resume Changes to Make**:
+*   Quantify impact in the Assistant Coordinator role with specific outcomes.
+*   Add a "Technical Skills" section, listing SQL, Python, and explicitly mentioning Tableau/Power BI if learned.
+*   Tailor project descriptions to highlight data asset creation and guiding business decisions.Business Intelligence UWEP: Internship focused on maintaining and developing league-wide dashboards, assisting with data collection, analysis of key performance metrics, and providing insights for actionable business decisions within the United Soccer League.
+
+**Resume Gaps:**
+
+*   Direct experience with Tableau or other data visualization software.
+*   Demonstrated experience in translating data into actionable business insights for revenue-driving verticals (ticketing, partnerships, consumer products).
+*   Specific examples of analyzing match performance data for commercial value.
+
+**Key Skills to Develop:**
+
+*   **Tableau Proficiency:** Gain hands-on experience building and updating dashboards in Tableau.
+*   **Business Acumen in Sports:** Develop an understanding of how data drives decisions in professional sports, particularly in areas like ticketing and partnerships.
+*   **Data Storytelling:** Practice communicating complex data findings clearly and concisely to various stakeholders.
+
+**Resume Changes to Make:**
+
+*   **Quantify Project Impact:** Add specific metrics to project descriptions, e.g., "improved profitability by X%" or "increased engagement by Y%."
+*   **Highlight Tableau/Visualization:** If any exposure exists, clearly list "Tableau (or similar data visualization tool)" under skills.
+*   **Tailor "Business Case" Project:** Emphasize the business implications of your analysis beyond just identifying the best product.Power BI Intern: 50 word job description summary
+Seeking a detail-oriented Power BI Intern to build, maintain, and optimize dashboards/reports. Responsibilities include data analysis, visualization, requirements gathering, and troubleshooting. Requires basic Power BI, DAX, Power Query, Excel, and SQL knowledge. Opportunity to gain hands-on experience in data visualization and business analysis for government agency projects.
+
+Resume Gaps:
+*   Direct experience with Power BI (DAX, Power Query).
+*   Experience with data sources listed (SharePoint).
+*   Demonstrated ability to document processes and contribute to best practices in data governance.
+*   No explicit mention of Azure experience.
+
+Key Skills to Develop:
+*   Power BI Development (DAX, Power Query, Report/Dashboard Design)
+*   Data Visualization Best Practices
+*   Understanding of Data Governance Principles
+
+Resume Changes to Make:
+*   Add a "Technical Skills" section and list "Power BI (DAX, Power Query)" prominently.
+*   Quantify impact where possible, e.g., "improved efficiency by X%" or "reduced errors by Y%."
+*   Consider a brief mention of relevant coursework or projects involving data visualization tools if available.Business Analyst Intern: Assisting with data analysis, administrative functions, and special projects across operational departments. This role involves creating process documentation, facilitating stakeholder discussions to gather requirements, and analyzing data to identify improvement opportunities. The intern will also perform impact assessments and present findings.
+
+Resume Gaps:
+*   Lack of explicit experience with formal process documentation (process models, BRTMs, use cases).
+*   Limited demonstrated experience in facilitating discussions with diverse stakeholders to elicit requirements.
+*   No direct mention of working in an agile development environment.
+*   Minimal experience in evaluating the impact of system/workflow changes on production reports and data.
+
+Key Skills to Develop:
+*   **Business Process Modeling:** Understanding and applying notation (e.g., BPMN) to visually represent business processes.
+*   **Requirements Elicitation Techniques:** Practicing methods like interviews, workshops, and surveys to gather and document user needs.
+*   **Agile Methodologies:** Familiarizing with concepts like Scrum and Kanban, and how to operate within an agile framework.
+
+Resume Changes to Make:
+*   **Add a dedicated "Business Analysis Skills" section:** Include "Process Modeling," "Requirements Gathering," and "Agile Methodologies" if you gain exposure through coursework or personal projects.
+*   **Quantify impact in the Teaching Assistant role:** Highlight how improved data literacy in students led to specific project outcomes or better performance metrics.
+*   **Tailor project descriptions:** Briefly mention how the analysis or simulation identified potential process improvements or informed decision-making, linking to business analyst functions.Junior Data Analyst, Business Intelligence: Intern opportunity for ambitious students/graduates in Las Vegas seeking hands-on data analysis and BI experience. Work with senior analysts, contribute to data-driven decisions, and gain practical skills in reporting, analysis, and BI tools.
+
+Resume Gaps:
+*   Limited direct experience with Business Intelligence (BI) tools like Tableau or Power BI.
+*   No explicit mention of experience with data visualization creation beyond project descriptions.
+*   Limited emphasis on data cleaning and validation as a distinct responsibility.
+
+Key Skills to Develop:
+*   Proficiency in BI tools (e.g., Tableau, Power BI).
+*   Data visualization techniques and best practices.
+*   Data cleaning and validation methodologies.
+
+Resume Changes to Make:
+*   Add a "Business Intelligence Tools" section mentioning Tableau/Power BI (even if learning).
+*   Quantify data visualization impact in project descriptions (e.g., "created charts that improved understanding of...").
+*   Highlight data cleaning/validation efforts in project/work experience bullet points.Undergraduate Data Analyst for PowerBI Internship: MSTS seeks a Data Analyst intern to assist with PowerBI dashboard development, data source identification, metric automation, and presentations. The role involves collaborating with scientists, engineers, and technicians on technical solutions for national security experimentation at the Nevada National Security Site.
+
+Resume Gaps:
+*   Lack of specific experience with PowerBI.
+*   Limited direct experience in data source identification and metric calculation automation.
+*   No explicit mention of experience presenting technical progress to management or teams.
+
+Key Skills to Develop:
+*   PowerBI development and dashboard creation.
+*   Data source identification and metric calculation methodologies.
+*   Presentation skills, particularly for technical projects and progress updates.
+
+Resume Changes to Make:
+*   Add "PowerBI" to your "TOOLS / SKILLS" section.
+*   Quantify any experience with data automation or reporting tools in project descriptions.
+*   Consider a brief "Presentations" bullet under a relevant project or experience to highlight this skill.**Business Intelligence Intern**: Aristocrat - Business Intelligence Intern
+
+**Resume Gaps**:
+
+*   Lack of direct experience with Tableau or Power BI.
+*   Limited explicit mention of collaboration with "internal partners" or "commercial strategy teams."
+*   No direct experience with project management tools like Wrike.
+*   No mention of a specific project report deliverable.
+*   While GPA is noted, a higher GPA might be more competitive.
+*   No explicit mention of being "currently pursuing" a degree for Junior/Senior year status.
+
+**Key Skills to Develop**:
+
+*   **Tableau/Power BI**: Gain introductory to intermediate proficiency in dashboard creation and data visualization tools.
+*   **Stakeholder Communication**: Practice articulating project status, findings, and potential challenges to diverse audiences.
+*   **Project Management Tools**: Familiarize with a project management software like Wrike for tracking tasks and progress.
+
+**Resume Changes to Make**:
+
+*   Add a "Software/Tools" section to list Tableau and Power BI (even if introductory).
+*   In project/work descriptions, explicitly use terms like "collaborated with stakeholders" or "supported business strategy."
+*   Under Education, clarify current academic standing to align with Junior/Senior year requirement.
