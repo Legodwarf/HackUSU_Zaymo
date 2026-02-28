@@ -6,4 +6,5 @@
 
 # macOS files
 .DS_Store
---pycache--/
+
+__pycache__/

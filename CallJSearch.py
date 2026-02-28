@@ -1,6 +1,7 @@
 
 import requests
 import json
+import os
 
 def genSummarizedJobOutputJSON(query, country="us"):
 
@@ -15,7 +16,7 @@ def genSummarizedJobOutputJSON(query, country="us"):
         }
 
     headers = {
-        "x-rapidapi-key": "66f37caf8emsh1ca1a67c88a4173p17d7cejsn6bffb3006b50",
+        "x-rapidapi-key": os.getenv("JSEARCH_API_KEY"),
         "x-rapidapi-host": "jsearch.p.rapidapi.com"
     }
 
@@ -23,17 +24,10 @@ def genSummarizedJobOutputJSON(query, country="us"):
 
     # print(response.json())
 
-<<<<<<< HEAD
     with open("FullOutput.json", "w", encoding="utf-8") as file:
         json.dump(response.json(), file, indent=4)
 
     with open("FullOutput.json", "r", encoding="utf-8") as file:
-=======
-    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "w", encoding="utf-8") as file:
-        json.dump(response.json(), file, indent=4)
-
-    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "r", encoding="utf-8") as file:
->>>>>>> 533819b13beba601e7fa8e2faf73237d017e8403
         fullJobDict = json.load(file)
 
     sumJobDict = {}

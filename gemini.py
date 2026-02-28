@@ -21,7 +21,6 @@ def _load_dotenv_if_present(dotenv_path: str = ".env") -> bool:
 
 
 dotenv_loaded = _load_dotenv_if_present(".env")
-job_description = os.getenv("JOB_DESCRIPTION")
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 # The client gets the API key from the environment variable `GEMINI_API_KEY`.
 if not gemini_api_key:
@@ -39,25 +38,28 @@ except ImportError as e:
 
 if not os.path.exists(resume_path):
     raise FileNotFoundError(f"Resume file not found: {resume_path}")
-
 doc = docx.Document(resume_path)
-resume_text = "\n".join(p.text for p in doc.paragraphs if p.text.strip())
-job_dict = jobOutput("Data Analyst (Intern) in Washington, DC")
-for job in job_dict.keys():
-    base_prompt = "Role: Career Coach; Task: Identify gaps in the resume"
-    prompt = (
-        base_prompt
-        + " relative to this job description: "
-        + job_dict[job]["description"]
-        + " and provide a list of 3-5 potential resume improvements."
-    )
+def generate_gemini_response(doc, job_dict):
+    resume_text = "\n".join(p.text for p in doc.paragraphs if p.text.strip())
+    for job in job_dict.keys():
+        base_prompt = "Role: Career Coach; Task: Identify gaps in the resume"
+        prompt = (
+            base_prompt
+            + " relative to this job description: "
+            + job_dict[job]["description"]
+            + " and provide a list of 3-5 potential resume improvements."
+        )
 
-    full_prompt = "Here is the resume content:\n\n" + resume_text + "\n\n" + prompt
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=[full_prompt],
-        config={"http_options": {"timeout": 60000}},
-    )
-    print(response.text)
-    with open("gemini_response.txt", "w") as file:
-        file.write(response.text)
+        full_prompt = "Here is the resume content:\n\n" + resume_text + "\n\n" + prompt
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=[full_prompt],
+            config={"http_options": {"timeout": 60000}},
+        )
+        with open("gemini_response.txt", "a") as file:
+            file.write(response.text)
+    return response.text
+
+job_dict = jobOutput(input("Enter a job title and location (e.g. 'Data Analyst (Intern) in Washington, DC'): "))
+generate_gemini_response(doc, job_dict)
+print("Gemini response generated and saved to gemini_response.txt")
