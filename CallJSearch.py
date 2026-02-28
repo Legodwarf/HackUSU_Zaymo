@@ -2,67 +2,60 @@
 import requests
 import json
 
-# url = "https://jsearch.p.rapidapi.com/search"
+def genSummarizedJobOutputJSON(query, country="us"):
 
-# querystring = {
-#     "query":"developer jobs in chicago",
-#     "page":"1",
-#     "num_pages":"1",
-#     "country":"us",
-#     "date_posted":"all"
-#     }
+    url = "https://jsearch.p.rapidapi.com/search"
 
-# headers = {
-# 	"x-rapidapi-key": "66f37caf8emsh1ca1a67c88a4173p17d7cejsn6bffb3006b50",
-# 	"x-rapidapi-host": "jsearch.p.rapidapi.com"
-# }
+    querystring = {
+        "query": query,
+        "page":"1",
+        "num_pages":"1",
+        "country": country,
+        "date_posted":"all"
+        }
 
-# response = requests.get(url, headers=headers, params=querystring)
+    headers = {
+        "x-rapidapi-key": "66f37caf8emsh1ca1a67c88a4173p17d7cejsn6bffb3006b50",
+        "x-rapidapi-host": "jsearch.p.rapidapi.com"
+    }
 
-# print(response.json())
+    response = requests.get(url, headers=headers, params=querystring)
 
-# with open("/workspaces/HackUSU_Zaymo/ExampleOutput.json", "w") as file:
-#     json.dump(response.json(), file, indent=4)
+    # print(response.json())
 
-with open("/workspaces/HackUSU_Zaymo/ExampleOutput.json", "r") as file:
-    fullJobDict = json.load(file)
+    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "w") as file:
+        json.dump(response.json(), file, indent=4)
 
-def validateDict(sumDict, fullJobDict):
-    try:
-        sumDict = fullJobDict
-    except KeyError:
-        sumDict = None
-    
-    return sumDict
+    with open("/workspaces/HackUSU_Zaymo/FullOutput.json", "r") as file:
+        fullJobDict = json.load(file)
 
+    sumJobDict = {}
 
-sumJobDict = {}
+    for jobIndex in range(len(fullJobDict["data"])):
+        # sets up the format for each job in the summarized dictionary
+        fullJobDictRef = fullJobDict["data"][jobIndex] # partial dictionary reference, will give the dictionary for each job during that job's interation of the loop
+        jobSumTitle = f"{jobIndex + 1}. {fullJobDictRef["job_title"]}"
+        sumJobDict[jobSumTitle] = {}
 
-for jobIndex in range(len(fullJobDict["data"])):
-    # sets up the format for each job in the summarized dictionary
-    fullJobDictRef = fullJobDict["data"][jobIndex] # partial dictionary reference, will give the dictionary for each job during that job's interation of the loop
-    jobSumTitle = f"{jobIndex + 1}. {fullJobDictRef["job_title"]}"
-    sumJobDict[jobSumTitle] = {}
+        # create summarized dictionary
+        sumJobDict[jobSumTitle]["jobTitle"] = fullJobDictRef["job_title"]
+        sumJobDict[jobSumTitle]["employer"] = fullJobDictRef["employer_name"]
+        sumJobDict[jobSumTitle]["timeType"] = fullJobDictRef["job_employment_type"]
+        sumJobDict[jobSumTitle]["applyOptions"] = fullJobDictRef["apply_options"]
+        sumJobDict[jobSumTitle]["description"] = fullJobDictRef["job_description"]
+        sumJobDict[jobSumTitle]["location"] = fullJobDictRef["job_location"]
 
-    # create summarized dictionary
-    sumJobDict[jobSumTitle]["jobTitle"] = fullJobDictRef["job_title"]
-    sumJobDict[jobSumTitle]["employer"] = fullJobDictRef["employer_name"]
-    sumJobDict[jobSumTitle]["timeType"] = fullJobDictRef["job_employment_type"]
-    sumJobDict[jobSumTitle]["applyOptions"] = fullJobDictRef["apply_options"]
-    sumJobDict[jobSumTitle]["description"] = fullJobDictRef["job_description"]
-    sumJobDict[jobSumTitle]["location"] = fullJobDictRef["job_location"]
+        try:
+            sumJobDict[jobSumTitle]["qualificationsList"] = fullJobDictRef["job_highlights"]["Qualifications"]
+        except KeyError:
+            sumJobDict[jobSumTitle]["qualificationsList"] = None
 
-    try:
-        sumJobDict[jobSumTitle]["qualificationsList"] = fullJobDictRef["job_highlights"]["Qualifications"]
-    except KeyError:
-        sumJobDict[jobSumTitle]["qualificationsList"] = None
+        try:
+            sumJobDict[jobSumTitle]["responsibilitiesList"] = fullJobDictRef["job_highlights"]["Responsibilities"]
+        except KeyError:
+            sumJobDict[jobSumTitle]["responsibilitiesList"] = None
 
-    try:
-        sumJobDict[jobSumTitle]["responsibilitiesList"] = fullJobDictRef["job_highlights"]["Responsibilities"]
-    except KeyError:
-        sumJobDict[jobSumTitle]["responsibilitiesList"] = None
+    with open("/workspaces/HackUSU_Zaymo/ExampleSummarizedOutput.json", "w") as file:
+        json.dump(sumJobDict, file, indent=4)
 
-with open("/workspaces/HackUSU_Zaymo/ExampleSummarizedOutput.json", "w") as file:
-    json.dump(sumJobDict, file, indent=4)
-
-
+    return sumJobDict
