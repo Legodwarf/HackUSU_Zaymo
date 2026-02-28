@@ -3,3 +3,10 @@
 - call api and get job data for jobs
 - ask ai how resume could be updated for each job
 - Output results in chatbot form
+
+
+FOR SATURDAY
+- make a UI
+- publish to docker
+- publich to selecteez.com
+- 
